@@ -1,0 +1,45 @@
+regions:
+  graubuenden:
+    center: { lat: 46.7000, lon: 9.5500 }
+    points:
+      - { name: "Chur", lat: 46.8508, lon: 9.5329 }          # Tal
+      - { name: "Davos", lat: 46.8024, lon: 9.8370 }         # Hochalpin
+      - { name: "St. Moritz", lat: 46.4970, lon: 9.8430 }    # Engadin
+      - { name: "Bergell", lat: 46.3170, lon: 9.5660 }       # Südseite
+      - { name: "Lenzerheide", lat: 46.7260, lon: 9.5570 }   # Mittelhöhe
+
+  wallis:
+    center: { lat: 46.2500, lon: 7.6500 }
+    points:
+      - { name: "Sion", lat: 46.2330, lon: 7.3600 }          # Tal
+      - { name: "Zermatt", lat: 46.0207, lon: 7.7491 }       # Hochalpin
+      - { name: "Saas-Fee", lat: 46.1080, lon: 7.9270 }      # Hochalpin
+      - { name: "Brig", lat: 46.3167, lon: 7.9833 }          # Ost-Wallis
+      - { name: "Verbier", lat: 46.1000, lon: 7.2300 }       # West-Wallis
+
+  bernese_oberland:
+    center: { lat: 46.6000, lon: 7.9000 }
+    points:
+      - { name: "Interlaken", lat: 46.6863, lon: 7.8632 }    # Tal
+      - { name: "Grindelwald", lat: 46.6241, lon: 8.0360 }   # Hochalpin
+      - { name: "Lauterbrunnen", lat: 46.5930, lon: 7.9090 } # Tal/Schlucht
+      - { name: "Mürren", lat: 46.5590, lon: 7.8920 }        # Höhe
+      - { name: "Thun", lat: 46.7580, lon: 7.6290 }          # Voralpen
+
+  engadin:
+    center: { lat: 46.5500, lon: 9.8500 }
+    points:
+      - { name: "St. Moritz", lat: 46.4970, lon: 9.8430 }    # Zentrum
+      - { name: "Pontresina", lat: 46.4890, lon: 9.9010 }    # Gletschernähe
+      - { name: "Samedan", lat: 46.5340, lon: 9.8750 }       # Tal
+      - { name: "Bever", lat: 46.5500, lon: 9.8880 }         # Mittelhöhe
+      - { name: "Zuoz", lat: 46.6020, lon: 9.9580 }          # Oberengadin
+
+  ticino:
+    center: { lat: 46.2000, lon: 8.8000 }
+    points:
+      - { name: "Locarno", lat: 46.1660, lon: 8.7940 }       # See
+      - { name: "Lugano", lat: 46.0037, lon: 8.9511 }        # Süd
+      - { name: "Mendrisio", lat: 45.8700, lon: 8.9830 }     # Tiefland
+      - { name: "Biasca", lat: 46.3540, lon: 8.9670 }        # Nord
+      - { name: "Airolo", lat: 46.5270, lon: 8.6110 }        # Alpenpass
